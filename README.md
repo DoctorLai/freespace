@@ -34,9 +34,8 @@ You may also like [this tool: Free Space Path Loss Calculator with API](https://
 5. Submit a pull request :D
 
 ## Author
-freespace © justyy, Released under the MIT License.
-Authored and maintained by sinchang with help from contributors (list).
-
+* freespace © justyy, Released under the MIT License.
+* Authored and maintained by @justyy with help from contributors (list).
 * [@justyy](https://steemit.com/@justyy), 
     * Blog: [helloacm](https://helloacm.com)
     * Blog: [codingforspeed](https://codingforspeed.com)
