@@ -23,6 +23,11 @@ Output:
 34
 ```
 
+## Tests
+```
+npm test
+```
+
 ## Online Tool
 You may also like [this tool: Free Space Path Loss Calculator with API](https://propagationtools.com/wireless/free-space-path-loss-calculator-with-api/).
 
