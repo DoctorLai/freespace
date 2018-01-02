@@ -1,6 +1,6 @@
 {
   "name": "wireless_pathloss",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Calculate Free Space Propagation Path Loss",
   "main": "index.js",
   "directories": {
