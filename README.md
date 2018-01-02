@@ -1,14 +1,14 @@
-# freespace
-NPM freespace propagation calculator
+# wireless_pathloss
+NPM Library: `wireless_pathloss` provides methods to compute Path Loss in Free Space.
 
 ## Installation
 ```
-npm install freespace
+npm install wireless_pathloss
 ```
 
 ## Usage
 ```
-var wireless = require('freespace');
+var wireless = require('wireless_pathloss');
 wireless.Antenna(0, 0, 300);
 wireless.SetFrequency(947);
 console.log(wireless.GetPathLoss(0, 0, 0));
@@ -34,8 +34,8 @@ You may also like [this tool: Free Space Path Loss Calculator with API](https://
 5. Submit a pull request :D
 
 ## Author
-* freespace © justyy, Released under the MIT License.
-* Authored and maintained by @justyy with help from contributors (list).
+* freespace © justyy, Released under the [MIT License](http://spdx.org/licenses/MIT.html).
+* Authored and maintained by @justyy with help from contributors ([list](https://www.npmjs.com/package/wireless_pathloss/access)).
 * [@justyy](https://steemit.com/@justyy), 
     * Blog: [helloacm](https://helloacm.com)
     * Blog: [codingforspeed](https://codingforspeed.com)

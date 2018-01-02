@@ -1,4 +1,4 @@
-var wireless = require('freespace');
+var wireless = require('wireless_pathloss');
 wireless.Antenna(0, 0, 300);
 wireless.SetFrequency(947);
 console.log(wireless.GetPathLoss(0, 0, 0));

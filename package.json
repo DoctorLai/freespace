@@ -1,5 +1,5 @@
 {
-  "name": "freespace",
+  "name": "wireless_pathloss",
   "version": "1.0.0",
   "description": "Calculate Free Space Propagation Path Loss",
   "main": "index.js",
